@@ -1,0 +1,27 @@
+specs
+
+HTML TAGS USED:
+1. <header>
+2. <nav>
+3. <ul>
+4. <li>
+5. <main>
+6. <h2>
+7. <p>
+8. <a>
+9. <button>
+10. <footer>
+
+CSS PROPERTIES USED:
+1. background-color
+2. font-family
+3. color
+4. font-size
+5. min-height
+
+JavaScript used to create interactive messages when clicking buttons and submitting the contact form
+
+Bootstrap used to create navigation menus, buttons, lists and forms with a responsive design
+
+Uses Bootstrap and the viewport meta tag to work on mobile and pcs
+

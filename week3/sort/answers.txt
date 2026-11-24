@@ -1,0 +1,25 @@
+sort1 uses: bubble
+
+How do you know?: bubble since worst case took longer than best case
+sort1 took 0.9 seconds to sort the file sorted50000.txt (best case)
+sort1 took 5.5 seconds to sort the file reversed50000.txt
+sort1 took 6.1 seconds to sort the file random50000.txt (worst case)
+
+sort2 uses: merge sort
+
+How do you know?: best and worst cases took roughly the same time
+sort2 took 0.07 seconds to sort the file sorted10000.txt
+sort2 took 0.9 seconds to sort the file sorted50000.txt (best case)
+
+sort2 took 0.1 seconds to sort the file reversed10000.txt
+sort2 took 1 seconds to sort the file reversed50000.txt
+
+sort2 took 0.1 seconds to sort the file random10000.txt
+sort2 took 1 seconds to sort the file random50000.txt (worst case)
+
+sort3 uses: selection sort
+
+How do you know?: took more time than sort2 (merge sort) in all casesnot bubble as best = worst case
+sort3 took 2.7 seconds to sort the file sorted50000.txt (best case)
+sort3 took 3 seconds to sort the file reversed50000.txt
+sort3 took 2.7 seconds to sort the file random50000.txt (worst case)

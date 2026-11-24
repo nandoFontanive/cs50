@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: white;
+}
+
+h1 {
+    color: #0d6efd;
+}
+
+main {
+    min-height: 250px;
+}
+
+p {
+    font-size: 17px;
+}
+
+footer {
+    background-color: #0d6efd;
+    color: white;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.nav-link:hover {
+    background-color: #084298;
+    border-radius: 5px;
+}

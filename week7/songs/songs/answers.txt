@@ -1,0 +1,3 @@
+SELECT AVG(energy), AVG(valence), AVG(danceability) FROM songs;
+
+Maybe 100 songs is a number too low? And also the number of times each song is played should be considered.
